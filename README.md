@@ -1,7 +1,7 @@
 ## Desafio 1
 Clonar o repositorio
 ```md
-git clone https://github.com/siddarta-weis/desafio_1.git
+git clone https://github.com/siddarta-weis/desafio_1.git .
 ```
 Migrar DB
 ```md
